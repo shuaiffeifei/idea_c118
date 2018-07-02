@@ -21,4 +21,8 @@ public class StudentDao {
     public void a(){
 
     }
+    public void b(){
+
+    }
+
 }
