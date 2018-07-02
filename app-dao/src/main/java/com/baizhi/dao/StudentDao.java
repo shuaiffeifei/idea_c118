@@ -11,6 +11,8 @@ public class StudentDao {
     }
     public void m1(){
 
+        System.out.println("hello!dev!");
+
     }
     public void m2(){
         System.out.println("I love you!");
