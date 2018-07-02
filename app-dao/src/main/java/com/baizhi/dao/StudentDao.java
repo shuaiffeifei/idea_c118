@@ -17,4 +17,8 @@ public class StudentDao {
     public void m2(){
         System.out.println("I love you!");
     }
+
+    public void a(){
+
+    }
 }
