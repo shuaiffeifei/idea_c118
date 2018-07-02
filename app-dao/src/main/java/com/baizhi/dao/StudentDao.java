@@ -9,4 +9,7 @@ public class StudentDao {
 
         return "hi boy";
     }
+    public void m1(){
+
+    }
 }
