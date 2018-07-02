@@ -18,11 +18,8 @@ public class StudentDao {
         System.out.println("I love you!");
     }
 
-    public void a(){
+   public void c(){
 
-    }
-    public void b(){
-
-    }
+   }
 
 }
