@@ -12,4 +12,7 @@ public class StudentDao {
     public void m1(){
 
     }
+    public void m2(){
+        System.out.println("I love you!");
+    }
 }
